@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "cc3f",
+      "name": "Develope a flutter test api app",
+      "email": "test@gmail.com",
+      "phone": "7972943598"
+    },
+    {
+      "id": "e872",
+      "name": "Developing a power bi ",
+      "email": "noreply@gmail.com",
+      "phone": "8712312310"
+    },
+    {
+      "id": "7931",
+      "name": "Building JSON",
+      "email": "test@gmail.com",
+      "phone": "9876543210"
+    }
+  ]
+}
